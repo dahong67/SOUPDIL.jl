@@ -1,7 +1,5 @@
 # SOUPDIL
 
-[comment]: #( [![Build Status](https://travis-ci.org/dahong67/SOUPDIL.jl.svg?branch=master)](https://travis-ci.org/dahong67/SOUPDIL.jl) )
+**S**um of **Ou**ter **P**roducts **Di**ctionary **L**earning (SOUP-DIL) algorithm from the paper:
 
-[comment]: #( [![Coverage Status](https://coveralls.io/repos/dahong67/SOUPDIL.jl/badge.svg?branch=master&service=github)](https://coveralls.io/github/dahong67/SOUPDIL.jl?branch=master) )
-
-[comment]: #( [![codecov.io](http://codecov.io/github/dahong67/SOUPDIL.jl/coverage.svg?branch=master)](http://codecov.io/github/dahong67/SOUPDIL.jl?branch=master) )
+Ravishankar, S., Nadakuditi, R. R., & Fessler, J. A. (2016). Efficient Sum of Sparse Outer Products Dictionary Learning (SOUP-DIL) - The l0 Method. Retrieved from http://arxiv.org/abs/1511.06333
